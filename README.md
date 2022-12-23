@@ -1,6 +1,6 @@
 # Image-Resizer-Through-Seam_Carving
 ##Dependencies:
-You’ll need to install the python image library Pillow to extract RGB
+>You’ll need to install the python image library Pillow to extract RGB
 values of each pixel and to generate images back from RGB values of
 each pixel.
 To install Pillow: pip install Pillow
