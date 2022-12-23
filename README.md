@@ -1,5 +1,5 @@
 # Image-Resizer-Through-Seam_Carving
-##Dependencies:
+## Dependencies:
 You’ll need to install the python image library Pillow to extract RGB
 values of each pixel and to generate images back from RGB values of
 each pixel.
@@ -11,7 +11,7 @@ If there are enough Windows users, we might release the script for
 Windows too.
 If you’re a windows user you can request us for the input text
 file(rgb_in.txt) so that you can start working on the problem.
-##How to Run:
+## How to Run:
 Open the this directory in the terminal and run the python file driver.py
 located in /src. Also, you need to pass the input image filename(must be
 present inside /data/input) as a command line argument.
