@@ -1,20 +1,27 @@
-# Image-Resizer-Through-Seam_Carving
-## Dependencies:
-You’ll need to install the python image library Pillow to extract RGB
-values of each pixel and to generate images back from RGB values of
-each pixel.
-```
-**To install Pillow** : pip install Pillow
-```
-The python script is only compatible with Linux/Mac operating systems.
-If there are enough Windows users, we might release the script for
-Windows too.
-If you’re a windows user you can request us for the input text
-file(rgb_in.txt) so that you can start working on the problem.
-## How to Run:
-Open the this directory in the terminal and run the python file driver.py
-located in /src. Also, you need to pass the input image filename(must be
-present inside /data/input) as a command line argument.
-```
-Ex: python ./src/driver.py sample1.jpeg
-```
+# Image Resizer Through Seam Carving
+
+[seam carving]([https://example.com/seam_carving_image.png](https://courses.cs.washington.edu/courses/cse373/20wi/homework/seamcarving/))
+
+## Dependencies
+
+- Python Image Library (Pillow)
+
+To install Pillow, use the following command:
+
+`sh
+pip install Pillow
+`
+
+Please note that the provided Python script is currently only compatible with Linux and Mac operating systems. For Windows users, please request the input text file (rgb_in.txt) to start working on the problem.
+
+## How to Run
+
+1. Open your terminal and navigate to the project directory.
+2. Run the Python script `driver.py` located in the `src` directory. Pass the input image filename as a command line argument. The input image should be present in the `data/input` directory.
+
+`sh
+python ./src/driver.py sample1.jpeg
+`
+
+Make sure to replace `sample1.jpeg` with the actual filename of your input image.
+
