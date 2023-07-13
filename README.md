@@ -1,6 +1,6 @@
 # Image Resizer Through Seam Carving
 
-[seam carving]([https://example.com/seam_carving_image.png](https://courses.cs.washington.edu/courses/cse373/20wi/homework/seamcarving/))
+![seam carving]([https://en.wikipedia.org/wiki/Seam_carving](http://wordpress.mrreid.org/wp-content/uploads/2010/10/seam-carving-example.jpg))
 
 ## Dependencies
 
